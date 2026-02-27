@@ -88,4 +88,4 @@
 Add this file later (explained below):
 
 ```markdown
-![Snake animation](https://github.com/Chandrakant558/Chandrakant558/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Chandrakant558/Chandrakant558/blob/output/snake.svg)
