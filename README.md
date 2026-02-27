@@ -1,132 +1,91 @@
 ![Banner](banner.png)
 
-# 👋 Hi, I'm Chandrakant Kumar
+<h1 align="center">Hi 👋, I'm Chandrakant Kumar</h1>
 
-🚀 Android Developer | AI/ML Enthusiast | Algorithmic Trading Developer  
-🎓 Government Engineering College, Khagaria, Bihar  
-🔥 Passionate about building real-world scalable tech products  
+<h3 align="center">
+🚀 Android Developer | 🤖 AI Engineer | 📈 Algorithmic Trading Developer
+</h3>
 
----
-
-## 🚀 About Me
-
-- 📱 Building **BEUHub** – A complete digital ecosystem for BEU students
-- 📊 Developing Advanced **NSE Option Chain Trading Engine**
-- 🤖 Working on AI Models (RNN, LSTM, GANs)
-- 🔥 Firebase Expert (Auth, Firestore, Realtime DB, Storage)
-- 🧠 Interested in Data Intelligence & Behavioral Pattern Detection
-- 🏆 UIDAI Data Hackathon Participant
+<p align="center">
+  <a href="https://github.com/Chandrakant558">
+    <img src="https://komarev.com/ghpvc/?username=Chandrakant558&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 About Me
 
-### 📱 Android Development
-- Kotlin
-- Jetpack Compose
-- MVVM Architecture
-- WebView Integration
-- REST APIs (Retrofit)
+- 🎓 Government Engineering College, Khagaria, Bihar  
+- 📱 Creator of **BEUHub – University Super App**
+- 📊 Developer of Advanced **NSE Option Chain Trading Engine**
+- 🔥 Firebase & Jetpack Compose Specialist  
+- 🤖 AI/ML Enthusiast (RNN, LSTM, GANs)  
+- 🏆 UIDAI Data Hackathon Participant  
+
+---
+
+## ⚡ Tech Stack
+
+### 📱 Android
+`Kotlin` `Jetpack Compose` `MVVM` `WebView` `Retrofit`
 
 ### 🔥 Backend & Cloud
-- Firebase Authentication
-- Firestore
-- Realtime Database
-- Firebase Storage
-- Google Apps Script API
+`Firebase Auth` `Firestore` `Realtime DB` `Storage` `Google Apps Script`
 
 ### 📊 Algorithmic Trading
-- Python
-- Black-Scholes Model
-- Implied Volatility & Greeks
-- Bayesian Probability Engine
-- PCR Strategy
-- Google Sheets Logging
+`Python` `Black-Scholes` `Implied Volatility` `Greeks`  
+`Bayesian Engine` `PCR Strategy` `Google Sheets Logging`
 
 ### 🤖 AI / ML
-- RNN
-- LSTM
-- GAN Architecture
-- Data Pattern Analysis
-- Anomaly Detection
+`RNN` `LSTM` `GANs` `Anomaly Detection` `Behavior Pattern Analysis`
 
 ---
 
-## 📱 Major Projects
+## 🚀 Major Projects
 
 ### 📌 BEUHub – Bihar Engineering University Super App
-A powerful Android app built for BEU students.
 
-### 🔹 Features
-- Result Checker with PDF Download
-- PYQ Smart Search (Google Sheet API Integration)
-- Campus Chat (Realtime Messaging)
-- CampusTube (Video Streaming + Telegram Bot)
-- Student Marketplace
-- Premium Projects Section
-
-**Tech Used:** Kotlin, Jetpack Compose, Firebase, REST APIs
+✔ Result Checker with PDF Export  
+✔ PYQ Smart Search with Google Sheet API  
+✔ Campus Chat (Realtime Messaging)  
+✔ CampusTube (Video Streaming + Telegram Bot)  
+✔ Student Marketplace  
 
 ---
 
 ### 📈 NSE Option Chain Trading Engine
 
-Advanced live trading engine with:
-
-- Black-Scholes Pricing Model
-- Real-Time Greeks Calculation
-- Implied Volatility Solver
-- Adaptive Bayesian Probability Engine
-- PCR ±500 Strategy Logic
-- Live Dashboard Integration
-
-Built completely in Python.
+✔ Black-Scholes Pricing  
+✔ Real-Time Greeks Calculation  
+✔ IV Solver  
+✔ Adaptive Bayesian Probability  
+✔ PCR ±500 Strategy  
+✔ Production-Ready Dashboard  
 
 ---
 
-### 🧠 Duplicate / Abnormal Behavior Detection System
+### 🧠 Duplicate Behavior Detection System
 
-Project for analyzing non-PII Aadhaar enrolment data:
-
-- Detect Synthetic Patterns
-- Age Group Manipulation Detection
-- Multi-Pincode Behavioral Similarity
-- Data-Driven Societal Insight Framework
+✔ Synthetic Pattern Identification  
+✔ Age Manipulation Detection  
+✔ Multi-Pincode Analysis  
+✔ Data-Driven Insight Framework  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Chandrakant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandrakant558&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrakant558&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 Achievements
-
-- 🚀 Built Large-Scale University App (BEUHub)
-- 📊 Developed Production-Level Trading Engine
-- 🔥 Firebase Advanced Implementation
-- 🧠 AI/ML Academic + Practical Projects
-- 🏅 Organized Coding Challenges in College
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandrakant558&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandrakant558&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🐍 Contribution Snake Animation
 
-- 💼 LinkedIn: https://www.linkedin.com/in/chandrakant-yadav-12894b213/
-- 💻 GitHub: https://github.com/Chandrakant558
+Add this file later (explained below):
 
----
-
-## 🔥 What I'm Currently Working On
-
-- Scaling BEUHub
-- Improving Trading Engine Speed
-- Advanced AI-based Prediction Systems
-- Production-grade backend systems
-
----
-
-⭐ If you like my work, consider giving a star to my repositories!
+```markdown
+![Snake animation](https://github.com/Chandrakant558/Chandrakant558/blob/output/github-contribution-grid-snake.svg)
